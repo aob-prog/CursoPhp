@@ -53,7 +53,14 @@ class Coche {
     
 }
 
-$renault=new Coche ();   //Crea una instancia de la clase Coche
+
+
+
+
+
+
+//esto de abajo esta comentado porque fueron los primeros ejemplos, arriba vamos a pasar parametros
+/*$renault=new Coche ();   //Crea una instancia de la clase Coche
 $mazda= new Coche ();    //Le da un estado inicial al objeto que lo saca del metodo contructor, inicializa con eso
 $seat= new Coche ();
 
@@ -66,7 +73,7 @@ $seat->establecer_color("Verde","Seat");
 
 //echo $mazda->ruedas; //arriba llamo al metodo, abajo a la propiedad, se dif por el parentesis
                     // arriba no pongo echo porque ya lo tiene la function, abajo lo tengo que poner.
-
+*/
 ?>
 
 </body>
